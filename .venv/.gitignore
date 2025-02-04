@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+venv/
+.env/
+.myenv/
+.venv/
+
+# Logs
+*.log
+
+# Databases
+*.sqlite3
+db.sqlite3
+
+# PyCharm
+.idea/
+*.iml
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Testing & Coverage
+.coverage
+htmlcov/
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Pipenv & Poetry
+Pipfile
+Pipfile.lock
+poetry.lock
